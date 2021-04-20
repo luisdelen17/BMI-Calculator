@@ -1,3 +1,14 @@
 ion-content {
-  background: linear-gradient(to bottom, #ffefba, #ffffff)
+  background: linear-gradient(to bottom, #ffefba, #ffffff);
+
+  
+}
+
+h2{
+  text-align: center;
+}
+
+p {
+  font-family: 'Courier New', Courier, monospace;
+  text-align: center;
 }
